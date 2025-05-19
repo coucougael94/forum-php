@@ -5,3 +5,8 @@ Réaliser en 2 jours seulement.
 La première version de ce code possède des failles car c'est mon premier site en PHP.
 Je n'ai pour le moment pas le temps d'assurer sa maintenance.
 Contactez moi sur coucougael94 chez gmail.com
+
+
+# MDP BDD dans le code, code autrefois privé
+MDP HS donc pas grave
+
